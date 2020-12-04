@@ -294,6 +294,10 @@ $ python app.py
 
 We learnt how to extract audio from video files, transcribe the audio with our custom built models, process the transcript to get speaker diarized notes as well as NLU analysis report.
 
+## Resources
+- Sign up/Log in to your IBM Cloud Account: https://ibm.biz/VideoInsights
+- Follow along for the code lab: https://ibm.biz/InsightsHandsOn
+- Presentation Slides: https://ibm.biz/VideoSlides
 
 <!-- keep this -->
 ## License
