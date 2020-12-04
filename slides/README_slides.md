@@ -11,6 +11,34 @@ jupyter:
     language: python
     name: python3
 ---
+**Details** <br />
+Learn how to extract speaker diarized notes and meaningful insights reports using IBM® Watson™ Speech To Text, Watson Natural Language Processing, and Watson Tone Analysis when given any video.
+
+🎓 What will you learn? <br />
+- Use the Watson Speech to Text service to convert the human voice into the written word.
+- Use advanced natural language processing to analyze text and extract metadata from content such as concepts, entities, keywords, categories, sentiment, and emotion.
+- Leverage Watson Tone Analyzer cognitive linguistic analysis to identify a variety of tones at both the sentence and document level.
+
+👩‍💻 Who should attend? <br />
+Developers who are interested in AI and IBM Watson APIs.
+
++++ {"slideshow": {"slide_type": "subslide"}}
+
+🎙️ Speakers
+- Mridul Bhandari, IBM Developer Advocate, U.A.E - (https://www.linkedin.com/in/mridul-bhandari)
+- Mostafa Abdelaleem, IBM Developer Advocate, Egypt -
+(https://www.linkedin.com/in/mostafa-abdelaleem/)
+- Fawaz Siddiqi, IBM Developer Advocate, UAE - (https://www.linkedin.com/in/fawazsiddiqi/)
+
+🎈 Prerequisites <br />
+1) Sign up to IBM Cloud using this link: https://ibm.biz/VideoInsights <br />
+2) Register for the live event or watch the recording: https://www.crowdcast.io/e/extract-insights-from
+
+👩‍💻Resources <br />
+- GitHub Repository - https://github.com/fawazsiddiqi/VideoInsights
+- Workshop Slides - https://fawazsiddiqi.github.io/VideoInsights/#/
+- Survey - https://www.surveymonkey.com/r/HVQGC2M
+- Meetup page - https://www.meetup.com/IBM-Cloud-MEA/events/ 
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
